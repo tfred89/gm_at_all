@@ -1,0 +1,1 @@
+web: gunicorn parrot:app --log-file=-
