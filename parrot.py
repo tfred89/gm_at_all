@@ -3,7 +3,6 @@ import json
 from groupy.client import Client
 from groupy import attachments
 from flask import Flask, request
-from groups import peeps
 
 
 
